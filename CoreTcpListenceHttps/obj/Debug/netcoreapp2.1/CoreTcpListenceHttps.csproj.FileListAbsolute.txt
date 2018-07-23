@@ -1,0 +1,13 @@
+D:\TcpListenceHttps\CoreTcpListenceHttps\bin\Debug\netcoreapp2.1\CoreTcpListenceHttps.deps.json
+D:\TcpListenceHttps\CoreTcpListenceHttps\bin\Debug\netcoreapp2.1\CoreTcpListenceHttps.runtimeconfig.json
+D:\TcpListenceHttps\CoreTcpListenceHttps\bin\Debug\netcoreapp2.1\CoreTcpListenceHttps.runtimeconfig.dev.json
+D:\TcpListenceHttps\CoreTcpListenceHttps\bin\Debug\netcoreapp2.1\CoreTcpListenceHttps.dll
+D:\TcpListenceHttps\CoreTcpListenceHttps\bin\Debug\netcoreapp2.1\CoreTcpListenceHttps.pdb
+D:\TcpListenceHttps\CoreTcpListenceHttps\obj\Debug\netcoreapp2.1\CoreTcpListenceHttps.csprojAssemblyReference.cache
+D:\TcpListenceHttps\CoreTcpListenceHttps\obj\Debug\netcoreapp2.1\CoreTcpListenceHttps.Properties.Resources.resources
+D:\TcpListenceHttps\CoreTcpListenceHttps\obj\Debug\netcoreapp2.1\CoreTcpListenceHttps.csproj.GenerateResource.cache
+D:\TcpListenceHttps\CoreTcpListenceHttps\obj\Debug\netcoreapp2.1\CoreTcpListenceHttps.csproj.CoreCompileInputs.cache
+D:\TcpListenceHttps\CoreTcpListenceHttps\obj\Debug\netcoreapp2.1\CoreTcpListenceHttps.AssemblyInfoInputs.cache
+D:\TcpListenceHttps\CoreTcpListenceHttps\obj\Debug\netcoreapp2.1\CoreTcpListenceHttps.AssemblyInfo.cs
+D:\TcpListenceHttps\CoreTcpListenceHttps\obj\Debug\netcoreapp2.1\CoreTcpListenceHttps.dll
+D:\TcpListenceHttps\CoreTcpListenceHttps\obj\Debug\netcoreapp2.1\CoreTcpListenceHttps.pdb

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="jquery.js"></script>
+</head>
+<body>
+<input type="text" id="txt1"/>
+<input type="button" onclick="SendHttps()"/>
+</body>
+<script>
+    function  SendHttps() {
+        things = 'things='+$("#txt1").val();
+        $.ajax({
+            contentType: 'application/json; charset=utf-8',
+            dataType: 'jsonp',async:false,
+            type: 'POST',
+            url: 'https://localhost:1024?a=1',
+            data: things,
+            success: function (data) {
+                console.log(data);
+            },
+            failure: function (response) {
+                console.log(response);
+            }
+        });
+    }
+   
+
+</script>
+</html>

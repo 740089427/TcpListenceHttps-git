@@ -1,0 +1,9 @@
+D:\TcpListenceHttps\TcpListenceHttps\bin\Debug\TcpListenceHttps.exe.config
+D:\TcpListenceHttps\TcpListenceHttps\bin\Debug\TcpListenceHttps.exe
+D:\TcpListenceHttps\TcpListenceHttps\bin\Debug\TcpListenceHttps.pdb
+D:\TcpListenceHttps\TcpListenceHttps\obj\Debug\TcpListenceHttps.csprojAssemblyReference.cache
+D:\TcpListenceHttps\TcpListenceHttps\obj\Debug\TcpListenceHttps.Properties.Resources.resources
+D:\TcpListenceHttps\TcpListenceHttps\obj\Debug\TcpListenceHttps.csproj.GenerateResource.cache
+D:\TcpListenceHttps\TcpListenceHttps\obj\Debug\TcpListenceHttps.csproj.CoreCompileInputs.cache
+D:\TcpListenceHttps\TcpListenceHttps\obj\Debug\TcpListenceHttps.exe
+D:\TcpListenceHttps\TcpListenceHttps\obj\Debug\TcpListenceHttps.pdb

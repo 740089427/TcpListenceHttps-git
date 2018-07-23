@@ -1,0 +1,7 @@
+D:\TcpListenceHttps\HttpWebRequestDemo\bin\Debug\HttpWebRequestDemo.exe.config
+D:\TcpListenceHttps\HttpWebRequestDemo\bin\Debug\HttpWebRequestDemo.exe
+D:\TcpListenceHttps\HttpWebRequestDemo\bin\Debug\HttpWebRequestDemo.pdb
+D:\TcpListenceHttps\HttpWebRequestDemo\obj\Debug\HttpWebRequestDemo.csprojAssemblyReference.cache
+D:\TcpListenceHttps\HttpWebRequestDemo\obj\Debug\HttpWebRequestDemo.csproj.CoreCompileInputs.cache
+D:\TcpListenceHttps\HttpWebRequestDemo\obj\Debug\HttpWebRequestDemo.exe
+D:\TcpListenceHttps\HttpWebRequestDemo\obj\Debug\HttpWebRequestDemo.pdb
